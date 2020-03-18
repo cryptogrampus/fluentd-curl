@@ -1,4 +1,4 @@
-FROM fluent/fluentd:v1.8.1-1.0
+FROM fluent/fluentd:v1.9.1-1.0
 MAINTAINER Aaron Brewbaker <cryptogrampus@gmail.com>
 
 USER root
